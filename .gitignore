@@ -1,0 +1,17 @@
+build/
+data/
+include/bitsery
+.vscode
+opencv
+.VSCodeCounter
+CMakeFiles
+.env
+*.pyd
+intermediate-presentation/results
+intermediate-presentation/results_v2
+intermediate-presentation/results-backup
+ensemble_data/*
+!ensemble_data/test_fixed
+!ensemble_data/train_fixed
+ensemble/tree_model.json
+final-presentation/samples
