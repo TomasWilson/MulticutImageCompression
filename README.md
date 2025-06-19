@@ -1,3 +1,5 @@
+**NOTE: For privacy reasons, this is a stripped down version of the project, which is missing some further experiments (and the original commit history).**
+
 ## Multicut for Image Compression
 
 This project is something I worked on in the winter semester 2024 at TU Dresden. 
